@@ -1,0 +1,94 @@
+ETF Launch Plan
+By Q4 2025, we will launch:
+Founder-Led 50 ETF (un-levered, FDRS)
+Founder-Led 50 2x Daily ETF (levered, FDRX)
+
+Top 50 founder-led names, float-adjusted and cap-weighted (rebalanced quarterly). "Founder-led" = at least one
+original founder still holds an executive-level title. The assets will be US-listed common equity (primary listings only).
+under a certain theme. The selection size will have 50 constituents. Weighting will be based on a free-float
+market-cap. Rebalancing would be quarterly, after the close on the third Friday of March, June, September, and
+December.
+
+TODO List
+I. Form trust & entities
+A. Form board, including independent trustees
+B. Form Advisor in Delaware: Corgi Strategies, LLC
+C. Obtain EIN for Advisor.
+D. Form Delaware Statutory Trust for the funds, "Corgi ETF Trust I'
+E. Obtain EIN tor trust
+F. Amend Trust with series notice.
+
+II. Reg-filings
+A. Secure E-EDGAR credentials.
+B. Draft Form ADV based on examples (include derivatives and series).
+C. File Form ADV
+
+III. Exams & Registrations
+A. Take Series 65 test
+B. Register the lA representative with the firm
+C. Get NFA ID
+D. Adviser files Form 7-R (firm)
+E. Individual files Form 8-R
+F. Mail fingerprints.
+G. Take NFA Swaps Proficiency, SPR Short Track
+
+IV. Start Index
+A. Talk to Index publishers, identify one to work with.
+B. File trademarks: FDRI, FD50, FDRX, FDRS, Founder-Led 50, Founder-led Index
+C. Finalize index methodology. V
+D. Collect backtest with Index Provider (Solactive).
+
+V. Start assembling service-provider stack
+A. Fund Admin / Custodian
+B. Fund Accounting & Financial Reporting
+C. ETF Order Management / Transfer Agency
+D. Data & Pricing Feed
+E. Rule 18f-4 Derivatives Module (via Confluence)
+F. Medallion Distributon
+G. Trading Sub-Adviser
+H. Independent Public Accountant
+
+VI. Initial Preliminary Filing In Parallel
+A. Draft:
+Agreement & Declaration of Trust
+Certificate of Trust
+By-laws
+Board & Committee charters
+Investment Advisory Agreement
+Intial Capital Agreement / Subscription Agreement
+AML Program
+Liquidity Risk Management Program (LRMP)
+Derivatives Risk Management Program (DRMP)
+Business Continuity & Cyber Programs, Trust
+BCP for Advisor & Sub-adviser
+Proxy Voting Policy
+Valuation & Fair-Value Procedures
+Power of Attorney
+Index Licence Agreement
+Draft Form N-8A
+Draft Form N-1A
+Board Deck, Board Resolutions, Board Minutes
+
+B. Board Meeting to adopt above.
+C. File FormN-8A and Form N-1A with placeholders for service providers.
+
+VII. Finalize and file Form N-1A
+A. Finish 15c processes
+B. Finalize service providers
+1. GTS as Lead Market Maker
+2. Negotiate and sign Authorized-Participant Agreement(s).
+3. Find Swap provider.
+4. Fidelity bond & D&O insurance.
+C. Finish Setup
+1. Open Bank Accounts
+2. Seed audit
+3. Arrange seed creation baskets
+4. Finish drafting the final Form N-1A
+5. Final Board Meeting
+D. File Form 485(b) to amend and finalize Form N-1A
+
+VIII.Exchange & plumbing
+A. Pre-file fact-sheets/website with FINRA Advertising
+B. Build website
+C. NASDAQ listing application (Rule 5704).
+D. CUSIP / ISIN, DTC
