@@ -1,0 +1,58 @@
+Corgi ETF Trust I
+
+1933/1940 Act registration: Form N‑1A (initial; pre‑effective) — include delaying‑amendment language. 
+Part A - Prospectuses (series‑level)
+- Founder‑Led ETF (FDRS) — Preliminary Prospectus [placeholders]
+- Founder‑Led 2x Daily ETF (FDRX) — Preliminary Prospectus [placeholders] 
+Part B - Combined SAI for the Trust (covers both series)
+Part C - Exhibits
+
+We are drafting a preliminary Form N-1A; many fields will be left blank (using bracketed placeholders) to get the filing under SEC review as soon as possible; remaining blanks will be completed by post-effective amendment before launch
+
+Filing posture: preliminary Form N-1A with "subject to completion" legend; open items shown as bracketed blanks; finalize by post-effective amendment (Rule 485(b))
+
+Objective of the prelim: file quickly to start SEC review, receive comments early, then finalize names, fees, APs/LMM, swap counterparties, seed, and other details in a Rule 485(b) amendment
+
+Placeholders will be bracketed blanks ____, 0.00%, or [ ] (not "TBD"); where estimates are required (e.g., the fee table), include good-faith estimates with footnotes; do not lock in service-provider names in the prelim
+
+Trust: Corgi ETF Trust I, a Delaware statutory trust (formation in process)
+
+Series: two ETFs under the Trust: Founder-Led ETF (un-levered) and Founder-Led 2x Daily ETF (levered)
+
+Working tickers: FDRS (un-levered), FDRX (2x daily), exchange listing on NASDAQ (Rule 5704), ticker reservations
+
+Target launch window: Q4 2025
+
+Advisor: Corgi Strategies, LLC (Delaware), registration status in Form ADV filing
+
+Index ownership: Advisor (or affiliate) will own the "Founder-Led Index" IP and license it to the Funds
+
+Index calculation/publishing: Solactive AG as calculator/publisher; standard Solactive trademark/disclaimer language to be included
+
+Self-indexing disclosure: Advisor (index owner) licenses the Index to the Funds; Advisor makes no money from the Index. Describe conflicts, information barriers, and Board oversight
+
+Trademarks in process: FDRI, FD50, FDRX, FDRS, Founder-Led 50, Founder-Led Index
+
+Investment objectives: FDRS seeks to track the price and yield performance of the Founder-Led Index before fees/expenses; FDRX seeks daily investment results, before fees/expenses, that correspond to 200% (2x) of the Index’s daily performance
+
+Names Rule policy: each Fund will invest at least 80% of net assets in investments suggested by its name
+
+Strategy theme: "founder-led" means at least one original founder currently holds an significant executive or c-suite title (CEO, Executive Chair, President, CTO, etc.)
+
+Eligible universe: U.S.-listed common equity with primary listings only (no ADRs/OTC)
+
+Selection: top 50 qualifying founder-led names, using float-adjusted market cap and liquidity screens
+
+Weighting: free-float market-cap weighting with any single-issuer/sector caps
+
+Reconstitution/rebalance: quarterly after the close on the third Friday of March, June, September, and December (effective next trading day)
+
+FDRS portfolio: primarily Index constituents; may hold cash/short-term U.S. government securities for liquidity and basket differences
+
+FDRX leverage mechanics: daily reset to maintain +200% of Index daily return via total return swaps and other derivatives; remainder in cash/short-term U.S. government securities for collateral
+
+Service providers: do not fix names in prelim—use generic roles (Administrator, Custodian, Accounting/Financial Reporting, Transfer Agent/ETF Order Management, Distributor, Independent Registered Public Accounting Firm, Pricing services/data feed), all [ ]
+
+Trading sub-adviser: optional execution/PM support; appointment and fee terms
+
+Governance: Board formed with majority independent trustees; Board and Committee charters; 15(c) process to be completed before finalization
